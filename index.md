@@ -98,6 +98,11 @@ end
 
 ### Large image
 
+
+```
+The source image is missing, its a broken link... itsunprofessional :)
+```
+
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
